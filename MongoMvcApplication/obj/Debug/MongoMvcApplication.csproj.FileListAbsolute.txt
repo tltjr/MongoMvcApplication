@@ -1,0 +1,13 @@
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoMvcApplication.dll
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoMvcApplication.pdb
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\EntityFramework.dll
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Bson.dll
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Driver.dll
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\EntityFramework.xml
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Bson.pdb
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Bson.xml
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Driver.pdb
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\bin\MongoDB.Driver.xml
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\obj\Debug\MongoMvcApplication.dll
+C:\src\dotnet\MongoMvcApplication\MongoMvcApplication\obj\Debug\MongoMvcApplication.pdb
