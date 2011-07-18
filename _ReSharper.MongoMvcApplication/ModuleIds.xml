@@ -1,3 +1,4 @@
 <Modules>
   <Module PersistentId="36348D53-6F72-4141-B9B1-C7B3446CC3B9" ModuleId="MongoMvcApplication" />
+  <Module PersistentId="System.Web.ApplicationServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" ModuleId="System.Web.ApplicationServices" />
 </Modules>

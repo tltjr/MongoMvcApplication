@@ -2,6 +2,7 @@
 using System.Collections.Specialized;
 using System.Web.Hosting;
 using System.Web.Security;
+using MongoMvcApplication.Data;
 using MongoMvcApplication.Models;
 
 public class MongoMembershipProvider : MembershipProvider
@@ -106,7 +107,7 @@ public class MongoMembershipProvider : MembershipProvider
             GetConfigValue(config["passwordStrengthRegularExpression"], ""));
     }
 
-    private string GetConfigValue(string configValue, string defaultValue)
+    private static string GetConfigValue(string configValue, string defaultValue)
     {
         return string.IsNullOrEmpty(configValue) ? defaultValue : configValue;
     }
