@@ -5,7 +5,7 @@ using System.Globalization;
 using System.Web.Mvc;
 using System.Web.Security;
 
-namespace MongoMvcApplication.Models
+namespace $safeprojectname$.Models
 {
 
     public class ChangePasswordModel

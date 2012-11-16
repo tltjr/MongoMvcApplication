@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using MongoMvcApplication.Models;
 
-namespace MongoMvcApplication.Controllers
+namespace $safeprojectname$.Controllers
 {
     public class AccountController : Controller
     {

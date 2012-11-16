@@ -5,7 +5,7 @@ using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoDB.Driver.Builders;
 
-namespace MongoMvcApplication.Data
+namespace $safeprojectname$.Data
 {
     public class UserRepository
     {
